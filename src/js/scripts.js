@@ -12,7 +12,7 @@ function runTimer () {
 function timerSetup(seconds) {
     return seconds * 1000;
 }
-
+// something
 function timerAction () {
     deleteText();
 }
