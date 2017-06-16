@@ -1,12 +1,15 @@
-Title: Kamikaze Writer
-Description: Writing app that will delete what you write after some time. Ideal for beating procastrination.
-Author: Janko Prester
-Contact: janko.prester@gmail.com
-Current version: v0.0.1
+# Kamikaze Writer
 
-File structure:
+## Description
+Writing app that will delete what you write after some time. Ideal for beating procastrination.
 
-Install instructions: 
+## Building the app
+npm install
+npm run dev
+
+##Contact
+janko.prester@gmail.com
+
 
 
 
