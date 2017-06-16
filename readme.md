@@ -4,10 +4,10 @@
 Writing app that will delete what you write after some time. Ideal for beating procastrination.
 
 ## Building the app
-npm install
-npm run dev
+* npm install
+* npm run dev
 
-##Contact
+## Contact
 janko.prester@gmail.com
 
 
